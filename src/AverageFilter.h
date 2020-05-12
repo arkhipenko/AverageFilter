@@ -18,7 +18,7 @@ class averageFilter {
         void    initialize();
         T       value(T aSample);
         T       currentValue();
-		int     samples() { return iCount; }
+	int     samples() { return iCount; }
         
     private:
         T       *iReadings;
