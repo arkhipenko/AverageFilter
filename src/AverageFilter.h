@@ -1,7 +1,6 @@
 //
 // Digital implementation of an average filter
-// with variable number of samples using program
-// provided storage
+// with variable number of samples
 //
 
 #include <Arduino.h>
@@ -18,7 +17,7 @@ class averageFilter {
         void    initialize();
         T       value(T aSample);
         T       currentValue();
-	int     samples() { return iCount; }
+        int     samples() { return iCount; }
         
     private:
         T       *iReadings;
