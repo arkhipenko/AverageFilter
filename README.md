@@ -14,3 +14,7 @@
 v1.0.0:
 
 - 2015-11-18 - initial release
+
+v1.0.2:
+
+- 2025-11-14 - bug: potential for freeing static memory fixed
