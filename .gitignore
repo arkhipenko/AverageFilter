@@ -8,3 +8,6 @@ claude-start
 
 # Local scratch folders
 _*/
+
+# Test build output
+tests/test_averagefilter
