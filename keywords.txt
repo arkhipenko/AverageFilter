@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For TaskManager
+# Syntax Coloring Map For AverageFilter
 #######################################
 
 #######################################
@@ -16,6 +16,13 @@ initialize	KEYWORD2
 value	KEYWORD2
 currentValue	KEYWORD2
 samples	KEYWORD2
+setSamples	KEYWORD2
+setRounding	KEYWORD2
+window	KEYWORD2
+capacity	KEYWORD2
+count	KEYWORD2
+full	KEYWORD2
+memoryError	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
